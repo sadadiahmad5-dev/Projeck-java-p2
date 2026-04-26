@@ -1,2 +1,0 @@
-NilaiMahasiswa
-pengeluaran.java
